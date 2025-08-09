@@ -4,15 +4,17 @@ Professional landscaping services by Manuel Rayas with 25 years of experience.
 
 ## Services Offered
 - Sidewalk Installation
+- General Maintenance
+- Hardscaping
 - Landscape Design with Flagstone
 - Artificial Turf Installation
-- Fresh Grass Installation
-- Retaining Walls
+- Sod Installation
+- Sprinkler System Installation
 - Free Estimates
 
 ## About
 At Rayas Landscaping, we specialize in creating beautiful and functional outdoor spaces. Our work is dependable, detailed, and built to last.
 
 ## Contact
-**Phone:** (XXX) XXX-XXXX  
-**Email:** info@rayaslandscaping.com
+**Phone:** (805) 814-9343  
+**Email:** m.rayaslandscaping@gmail.com
