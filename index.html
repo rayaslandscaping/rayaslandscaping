@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rayas Landscaping | Professional Landscaping Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        header {
+            background: #2E7D32;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            background: #1B5E20;
+            text-align: center;
+            padding: 0.5rem 0;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 1100px;
+            margin: auto;
+            padding: 20px;
+        }
+        .about, .services, .contact {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #2E7D32;
+            margin-bottom: 10px;
+        }
+        .services-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+        }
+        .service {
+            background: #f8f8f8;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .service img {
+            max-width: 100%;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+        .service h3 {
+            color: #1B5E20;
+        }
+        footer {
+            background: #1B5E20;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        form {
+            display: grid;
+            gap: 10px;
+            max-width: 500px;
+        }
+        input, textarea {
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 1rem;
+            width: 100%;
+        }
+        button {
+            background-color: #2E7D32;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1rem;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #1B5E20;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Rayas Landscaping</h1>
+    <p>Professional Landscaping Services by Manuel Rayas – 25 Years of Experience</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<div class="container">
+
+    <section id="about" class="about">
+        <h2>About Us</h2>
+        <p>
+            At <strong>Rayas Landscaping</strong>, owner <strong>Manuel Rayas</strong> brings over 25 years of experience creating beautiful and functional outdoor spaces. Known for being dependable, hardworking, and detail-oriented, Manuel specializes in transforming your yard into a place you'll love. 
+            Whether it’s a fresh lawn, a stunning flagstone patio, or a sturdy retaining wall, he approaches every project with professionalism and care.
+        </p>
+    </section>
+
+    <section id="services" class="services">
+        <h2>Our Services</h2>
+        <div class="services-list">
+            <div class="service">
+                <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6" alt="Sidewalk installation">
+                <h3>Sidewalk Installation</h3>
+                <p>Durable and stylish sidewalks to enhance your property.</p>
+            </div>
+            <div class="service">
+                <img src="https://images.unsplash.com/photo-1588361861090-d7cc9765c7ee" alt="Flagstone landscaping">
+                <h3>Landscape Design with Flagstone</h3>
+                <p>Custom flagstone designs to bring elegance to your yard.</p>
+            </div>
+            <div class="service">
+                <img src="https://images.unsplash.com/photo-1590420480726-9bb9d9f4b1b0" alt="Artificial turf">
+                <h3>Artificial Turf Installation</h3>
+                <p>Low-maintenance, green all year round.</p>
+            </div>
+            <div class="service">
+                <img src="https://images.unsplash.com/photo-1553440569-bcc63803a83d" alt="Fresh grass lawn">
+                <h3>Fresh Grass Installation</h3>
+                <p>Lush, healthy lawns for a perfect outdoor look.</p>
+            </div>
+            <div class="service">
+                <img src="https://images.unsplash.com/photo-1589558928675-00fca6c4be7f" alt="Retaining wall">
+                <h3>Retaining Walls</h3>
+                <p>Strong, beautiful retaining walls built to last.</p>
+            </div>
+            <div class="service">
+                <img src="https://images.unsplash.com/photo-1604014237744-bd035ebf17b2" alt="Free estimate">
+                <h3>Free Estimates</h3>
+                <p>We visit your location and provide a no-obligation quote.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <h2>Contact Us</h2>
+        <p>Ready to start your landscaping project? Call or email us today to schedule your free estimate.</p>
+        <p><strong>Phone:</strong> (XXX) XXX-XXXX</p>
+        <p><strong>Email:</strong> info@rayslandscaping.com</p>
+        
+        <form action="mailto:info@rayslandscaping.com" method="POST" enctype="text/plain">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+</div>
+
+<footer>
+    <p>&copy; 2025 Rayas Landscaping | Designed with care</p>
+</footer>
+
+</body>
+</html>

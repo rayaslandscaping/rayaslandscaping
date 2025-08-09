@@ -1,16 +1,18 @@
-## Hi there 👋
+# Rayas Landscaping
 
-<!--
-**rayaslandscaping/rayaslandscaping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional landscaping services by Manuel Rayas with 25 years of experience.
 
-Here are some ideas to get you started:
+## Services Offered
+- Sidewalk Installation
+- Landscape Design with Flagstone
+- Artificial Turf Installation
+- Fresh Grass Installation
+- Retaining Walls
+- Free Estimates
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+At Rayas Landscaping, we specialize in creating beautiful and functional outdoor spaces. Our work is dependable, detailed, and built to last.
+
+## Contact
+**Phone:** (XXX) XXX-XXXX  
+**Email:** info@rayaslandscaping.com
